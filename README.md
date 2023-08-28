@@ -14,9 +14,10 @@ Tackling Software engineering is one of the most challenging things you can do, 
 
 Before going further, it's a good opportunity to define what software engineering is, and in the next section, we're going to introduce why the software industry is so important nowadays.
 
-It's the study of building software with it's all its phases called *Software development lifecycle*
+It's the study of building software with it's all its phases called _Software development lifecycle_
 
 **Software development lifecycle:**
+
 1. Requirement Gathering
 2. Analysis & Design
 3. Implementation
@@ -30,7 +31,6 @@ The importance of anything comes from its consequences if we miss it, so if we t
 
 which puts the software industry in the highest jobs in demand and this leads to higher salaries and good opportunities abroad.
 
-   
 ## 🧰 How to use this repo?
 
 TBD
@@ -39,6 +39,6 @@ TBD
 
 TBD
 
-## 🥝 Useful 
+## 🥝 Useful
 
 TBD
