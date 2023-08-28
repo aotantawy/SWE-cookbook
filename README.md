@@ -33,7 +33,25 @@ which puts the software industry in the highest jobs in demand and this leads to
 
 ## 🧰 How to use this repo?
 
+### 🔙 Prerequisite
+
 TBD
+
+---
+
+These might be one possible career path for software engineers with its levels, and the levels is nothing but what is the scope of the person within software development lifecycle (SDLC), you will find the scope of each level inside the level itself.
+
+### 🪜 Levels
+
+1. Junior
+2. Mid-level
+3. Senior
+4. Tech Lead
+5. Software Architect
+
+So choose your current level or the place where you want to grow, you can determine your current level but asking yourself what is your current scope at your work and you still try to land your first job in tech industry head into the Junior level.
+
+> **Note** These levels might increases or squashed based on the different variants, also the names might be different from one company to another.
 
 ## 💱 Alternatives
 
